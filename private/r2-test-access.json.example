@@ -1,0 +1,8 @@
+{
+  "bucket": "bucket",
+  "accountId": "account-id",
+  "endpoint": "https://<account-id>.r2.cloudflarestorage.com",
+  "token": "APItoken",
+  "accessKeyId":"access-key",
+  "secretAccessKey":"secret-key"
+}
