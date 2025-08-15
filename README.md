@@ -332,6 +332,8 @@ wrangler r2 bucket list
 - **Bucket Not Found**: Verify bucket name and region
 - **Network Timeout**: Check firewall settings
 
+## Related Packages
+
 - **[@synet/fs](https://www.npmjs.com/package/@synet/fs)** - Core filesystem abstraction and Unit Architecture
 - **[@synet/fs-azure](https://www.npmjs.com/package/@synet/fs-azure)** - Azure Blob Storage adapter
 - **[@synet/fs-gcs](https://www.npmjs.com/package/@synet/fs-gcs)** - Google Cloud Storage adapter
